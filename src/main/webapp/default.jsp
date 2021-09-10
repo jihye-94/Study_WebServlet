@@ -8,6 +8,7 @@
 </head>
 <body>
 	<h3>servlet 요청</h3>
+	
 	<h3>getContextPath</h3>
 	<%=request.getContextPath() %>
 	<hr>
