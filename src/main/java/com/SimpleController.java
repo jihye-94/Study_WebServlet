@@ -16,7 +16,7 @@ import javax.servlet.http.HttpServletResponse;
 //@WebServlet("/SimpleController") 지우세요!
 
 /*
- 1. @WebServlet 어노테이션 삭제한 이유
+ 1. @WebServlet 어노테이션 삭제한 이유 ??
   - web.xml을 통한 설정 작업을 해보려고,(어노테이션 사용하지 않은 과거 작성 코드가 존재하니)
   
   jsp 배울때는 웹 브라우저에서 192.168.0.57:8090/WebJSP/login.jsp 요청
